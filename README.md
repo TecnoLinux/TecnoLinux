@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TecnoLinux
-- This is a excersim practice learning and practing
+- I'm a hacker enthusiast that loves learning 
+- Addicted to hacking 
 
 <!---
 TecnoLinux/TecnoLinux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
